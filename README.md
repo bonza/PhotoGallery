@@ -73,3 +73,6 @@ Then run it from any folder.
 ```cmd
 dotnet new gallery
 ```
+
+## Prerequisites
+1. NodeJs should be installed
