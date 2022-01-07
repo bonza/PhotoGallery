@@ -11,7 +11,6 @@
         <PackageReference Include="LigerShark.WebOptimizer.Sass" Version="1.0.33-beta" />
         <PackageReference Include="LigerShark.WebOptimizer.TypeScript" Version="2.5.8-beta" />
         <PackageReference Include="Microsoft.AspNetCore.App" />
-        <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" />
         <PackageReference Include="SkiaSharp" Version="1.59.2" />
         <PackageReference Include="WebEssentials.AspNetCore.CdnTagHelpers" Version="1.0.15" />
     </ItemGroup>
